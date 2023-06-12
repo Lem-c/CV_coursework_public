@@ -1,6 +1,6 @@
 # ComputerVision_CW
 
-[Welcom](https://moodle.nottingham.ac.uk/login/index.php)
+[Welcome](https://moodle.nottingham.ac.uk/login/index.php)
 
 Following the instructions to launch QT GUI
 
