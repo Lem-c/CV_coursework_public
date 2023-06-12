@@ -27,6 +27,7 @@ Run the python file:
 ```
 python main.py
 ```
+All running processes will be recorded in "*_output.log" file
 
 ## You are now able to see the app's GUI
 
