@@ -2,7 +2,7 @@
 
 [Welcome](https://moodle.nottingham.ac.uk/login/index.php)
 
-Following the instructions to launch QT GUI
+Following the instructions to launch QT GUI for generating panorama from videos.
 
 The file size of all test videos is around 100M, so a link is provided for downloading
 
