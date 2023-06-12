@@ -1,5 +1,7 @@
 # ComputerVision_CW
 
+[Welcom](https://moodle.nottingham.ac.uk/login/index.php)
+
 Following the instructions to launch QT GUI
 
 The file size of all test videos is around 100M, so a link is provided for downloading
